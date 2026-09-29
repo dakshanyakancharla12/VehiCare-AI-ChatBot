@@ -1,0 +1,45 @@
+{
+    "Tenali": {
+        "Name" : "Subhani service center",
+        "rating": 4.5,
+        "phone": "+91 9876543210",
+        "timings": "9:00 AM - 8:00 PM",
+        "address": "Main Road, Tenali, Andhra Pradesh"
+    },
+    "Mangalagiri": {
+        "rating": 4.2,
+        "phone": "+91 8765432109",
+        "timings": "8:30 AM - 7:30 PM",
+        "address": "NH16, Mangalagiri, Andhra Pradesh"
+    },
+    "Vijayawada": {
+        "rating": 4.7,
+        "phone": "+91 7654321098",
+        "timings": "8:00 AM - 9:00 PM",
+        "address": "Benz Circle, Vijayawada, Andhra Pradesh"
+    },
+    "Guntur": {
+        "rating": 4.3,
+        "phone": "+91 6543210987",
+        "timings": "9:00 AM - 8:00 PM",
+        "address": "Arundelpet, Guntur, Andhra Pradesh"
+    },
+    "Hyderabad": {
+        "rating": 4.8,
+        "phone": "+91 9432109876",
+        "timings": "8:00 AM - 10:00 PM",
+        "address": "Banjara Hills, Hyderabad, Telangana"
+    },
+    "Tirupathi": {
+        "rating": 4.4,
+        "phone": "+91 8321098765",
+        "timings": "8:00 AM - 8:00 PM",
+        "address": "Tiruchanoor Road, Tirupathi, Andhra Pradesh"
+    },
+    "Bangalore": {
+        "rating": 4.6,
+        "phone": "+91 7210987654",
+        "timings": "8:00 AM - 9:00 PM",
+        "address": "MG Road, Bangalore, Karnataka"
+    }
+}
